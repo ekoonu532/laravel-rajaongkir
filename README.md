@@ -77,16 +77,17 @@ Follow these steps to install and run the project:
    git clone https://github.com/ekoonu532/laravel-rajaongkir.git
    cd laravel-rajaongkir
 2. Install PHP Dependencies
+    ```bash
     composer install
     
-3. Generate Application Key
+4. Generate Application Key
+    ```bash
     php artisan key:generate
    
-4. Run the Development Server
+6. Run the Development Server
+    ```bash
     php artisan serve
-    The application will be available at http://localhost:8000.
-
-
+The application will be available at http://localhost:8000.
 
 ### Penjelasan
 - **Clone the Repository**: Mengunduh proyek dari GitHub.
