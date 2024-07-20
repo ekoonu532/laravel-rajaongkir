@@ -95,4 +95,4 @@ The application will be available at http://localhost:8000.
 - **Generate Application Key**: Membuat kunci aplikasi Laravel.
 - **Run the Development Server**: Menjalankan server pengembangan Laravel, yang akan tersedia di `http://localhost:8000`.
 
-Deskripsi ini memberikan panduan singkat dan langsung untuk menginstal dan menjalankan proyek Larav
+
