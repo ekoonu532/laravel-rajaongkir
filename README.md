@@ -64,3 +64,34 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Installation and Usage
+
+
+
+Follow these steps to install and run the project:
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/ekoonu532/laravel-rajaongkir.git
+   cd laravel-rajaongkir
+2. Install PHP Dependencies
+    composer install
+    
+3. Generate Application Key
+    php artisan key:generate
+   
+4. Run the Development Server
+    php artisan serve
+    The application will be available at http://localhost:8000.
+
+
+
+### Penjelasan
+- **Clone the Repository**: Mengunduh proyek dari GitHub.
+- **Install PHP Dependencies**: Menginstal semua dependensi PHP menggunakan Composer.
+- **Generate Application Key**: Membuat kunci aplikasi Laravel.
+- **Run the Development Server**: Menjalankan server pengembangan Laravel, yang akan tersedia di `http://localhost:8000`.
+
+Deskripsi ini memberikan panduan singkat dan langsung untuk menginstal dan menjalankan proyek Larav
